@@ -1,4 +1,4 @@
-# vue-gravatar
+# vue-gravatar-ts
 
 [![NPM Version](https://img.shields.io/npm/v/vue-gravatar.svg)](https://www.npmjs.com/package/vue-gravatar-ts)
 [![NPM Dowloads](https://img.shields.io/npm/dm/vue-gravatar.svg)](https://www.npmjs.com/package/vue-gravatar-ts)
