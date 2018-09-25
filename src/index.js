@@ -1,3 +1,3 @@
-import GravatarImg from './components/GravatarImg.vue';
+import Gravatar from './components/Gravatar.vue';
 
-export default GravatarImg;
+export default Gravatar;

@@ -1,7 +1,7 @@
 /* eslint-disable import/no-extraneous-dependencies, import/no-unresolved, import/extensions */
 import 'babel-polyfill';
 import Vue from 'vue';
-import Gravatar from 'vue-gravatar';
+import Gravatar from 'vue-gravatar-ts';
 /* eslint-enable */
 import App from './App.vue';
 

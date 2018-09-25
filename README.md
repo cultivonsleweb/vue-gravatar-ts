@@ -1,18 +1,14 @@
 # vue-gravatar
 
-[![Build Status](https://travis-ci.org/JiriChara/vue-gravatar.svg?branch=master)](https://travis-ci.org/JiriChara/vue-gravatar)
-[![NPM Version](https://img.shields.io/npm/v/vue-gravatar.svg)](https://www.npmjs.com/package/vue-gravatar)
-[![NPM Dowloads](https://img.shields.io/npm/dm/vue-gravatar.svg)](https://www.npmjs.com/package/vue-gravatar)
+[![NPM Version](https://img.shields.io/npm/v/vue-gravatar.svg)](https://www.npmjs.com/package/vue-gravatar-ts)
+[![NPM Dowloads](https://img.shields.io/npm/dm/vue-gravatar.svg)](https://www.npmjs.com/package/vue-gravatar-ts)
 
-A dead-simple gravatar component for VueJS applications.
-
-**[DEMO](https://jirichara.github.io/vue-gravatar/)**
 
 
 ## Installation
 
 ```
-yarn add vue-gravatar
+yarn add vue-gravatar-ts
 ```
 
 ## Usage
@@ -21,7 +17,7 @@ Register the component
 
 ```js
 import Vue from 'vue';
-import Gravatar from 'vue-gravatar';
+import Gravatar from 'vue-gravatar-ts';
 
 Vue.component('v-gravatar', Gravatar);
 ```
@@ -55,4 +51,4 @@ The MIT License (MIT) - See file 'LICENSE' in this project
 
 ## Copyright
 
-Copyright © 2017 Jiří Chára. All Rights Reserved.
+Copyright © 2018 Cultivons le web. All Rights Reserved.

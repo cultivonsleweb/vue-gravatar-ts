@@ -1,9 +1,9 @@
 {
-  "name": "vue-gravatar",
+  "name": "vue-gravatar-ts",
   "version": "1.2.1",
-  "description": "Gravatar component for VueJS",
+  "description": "Gravatar component for VueJS with TypeScript",
   "main": "lib/index.js",
-  "author": "Jiri Chara <jiri@chara.vip>",
+  "author": "Arnaud Méhat <amehat@cultivonsleweb.com>",
   "license": "MIT",
   "scripts": {
     "build": "npm run clean && npm run test && npm run build:commonjs",
@@ -46,6 +46,7 @@
     "vue": "^2.2.6",
     "vue-loader": "^11.3.3",
     "vue-node": "^1.0.2",
+    "vue-property-decorator": "7.1.0",
     "vue-template-compiler": "^2.2.6",
     "webpack": "^2.3.2",
     "webpack-hot-middleware": "^2.17.1",
